@@ -228,7 +228,7 @@
       <Version>6.0.6</Version>
     </PackageReference>
     <PackageReference Include="Newtonsoft.Json">
-      <Version>10.0.3</Version>
+      <Version>13.0.2</Version>
     </PackageReference>
     <PackageReference Include="System.Reactive">
       <Version>4.0.0-preview00001</Version>
